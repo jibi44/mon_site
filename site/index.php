@@ -13,6 +13,7 @@
       include("includes/cover.php");
       include("includes/about.php");
       include("includes/cercles.php");
+      include("includes/whyMe.php");
       include("includes/services.php");
       include("includes/organisation.php");
     ?>
